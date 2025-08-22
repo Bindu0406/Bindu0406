@@ -20,3 +20,6 @@
 ## 🌐 Connect with Me
 - 📧 Email: bindu04062004@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/bindu-bs-207606344)
+## 📈 GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bindu0406&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bindu0406&layout=compact&theme=radical)
