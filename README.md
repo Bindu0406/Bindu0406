@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Bindu BS  
 
-<!--
-**Bindu0406/Bindu0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student | 💻 Python Developer | 🌐 Web Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently learning *Data Science & Analytics*
+- 🌱 Exploring *Full Stack Web Development*
+- 💡 Passionate about *Designing & Problem Solving*
+- 🎯 Goal: To become a *Software Developer / Data Analyst*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- *Languages:* Python, Java, C  
+- *Web:* HTML, CSS, JavaScript  
+- *Data:* SQL, Pandas, NumPy  
+- *Tools:* Git, GitHub, VS Code  
+
+## 📊 GitHub Stats
+![Bindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bindu0406&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+- 📧 Email: bindu04062004@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/bindu-bs-207606344)
